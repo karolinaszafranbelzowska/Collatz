@@ -19,8 +19,9 @@ while n != 1:
         n = n //2
 
     # If n is odd , multiply by 3 and +1
-    
+
     else:
         n = (3*n)+1
+
 
 print(n)
