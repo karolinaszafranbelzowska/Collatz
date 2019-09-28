@@ -1,7 +1,7 @@
 # Karolina Szafran-Belzowska, 28/09/2019
 # Collatz operation
 
-n = 20
+n = int(input("Enter a positive integer: "))
 
 # Keep looking until we reach 1.
 # This assumes The Collatz conjecture is TRUE
